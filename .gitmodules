@@ -1,6 +1,6 @@
 [submodule "cryptonote"]
 	path = cryptonote
-	url = https://github.com/Vetro7/RoyaltiesCLI.git
+	url = https://github.com/markberbon22/xencoin.git
 [submodule "libqrencode"]
 	path = libqrencode
 	url = https://github.com/fukuchi/libqrencode.git
